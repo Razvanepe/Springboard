@@ -1,1 +1,1 @@
-# Springboard
+# Case studies and mini-projects
